@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=federic0casu&style=flat-square&color=blue" alt=""/>
+
 👋 Hi, I’m @federic0casu
 
 👨🏻‍🎓 I graduated Bsc in Computer Engineering @ Unipi
