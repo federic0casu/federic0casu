@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @federic0casu
-- 👨🏻‍🎓 I graduated Bsc in Computer Engineering @ Unipi
-- 🌱 I’m currently attending Msc in Computer Engineering @ Unipi
-- 📫 How to reach me:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+👋 Hi, I’m @federic0casu
+
+👨🏻‍🎓 I graduated Bsc in Computer Engineering @ Unipi
+
+🌱 I’m currently attending Msc in Computer Engineering @ Unipi
+
+📫 How to reach me:
     + email: federicocasu.mail''at''gmail.com (please, substitute ''at'' with @)
 
 <!---
