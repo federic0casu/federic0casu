@@ -9,7 +9,7 @@
 🌱 I’m currently attending Msc in Computer Engineering @ Unipi
 
 📫 How to reach me:
-    + email: federicocasu.mail''at''gmail.com (please, substitute ''at'' with @)
+- email: federicocasu.mail''at''gmail.com (please, substitute ''at'' with @)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
