@@ -4,9 +4,7 @@
 
 👋 Hi, I’m @federic0casu
 
-👨🏻‍🎓 I graduated Bsc in Computer Engineering @ Unipi
-
-🌱 I’m currently attending Msc in Computer Engineering @ Unipi
+👨🏻‍🎓 I graduated Msc in Computer Engineering @ Unipi
 
 📫 How to reach me:
 - email: federicocasu.mail''at''gmail.com (please, substitute ''at'' with @)
@@ -22,9 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="75" height="75"/>&nbsp;
-  <!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="75" height="75"/>&nbsp;
-  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
 </div>
 
